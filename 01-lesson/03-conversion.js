@@ -12,6 +12,6 @@ let valueIsBoolean = Boolean(num)
 
 let Score = "1";
 let newNumberType = Number(Score)
-//console.log(typeof newNumberType) // In here we checked th typeof Score
+//console.log(typeof newNumberType) // In here we checked th typeof Score // peace
 
 
