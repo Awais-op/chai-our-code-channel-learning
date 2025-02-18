@@ -15,3 +15,15 @@ let newNumberType = Number(Score)
 //console.log(typeof newNumberType) // In here we checked th typeof Score // peace
 
 
+let name = "Awais"
+let inNumberValue =Number(name)
+//console.log(typeof inNumberValue)
+//in above statment we are converting name value itno number value
+
+let a = true
+let newNumberValue = Number(a)
+//console.log(newNumberValue)
+
+
+ 
+ 
